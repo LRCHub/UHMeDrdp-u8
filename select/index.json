@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "会いに行く",
+  "base_artist": "Kazumasa Oda",
+  "createdAt": "2026-02-25T17:59:01.424962Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "会いに行く",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/01_会いに行く_小田和正.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "会いに行く",
+      "artist": "小田和正",
+      "has_synced": true,
+      "path": "select/02_会いに行く_小田和正.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "会いに行く",
+      "artist": "小田 和正",
+      "has_synced": false,
+      "path": "select/pl_01_会いに行く_小田_和正.txt"
+    }
+  ]
+}
